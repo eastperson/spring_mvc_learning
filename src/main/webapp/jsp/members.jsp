@@ -6,8 +6,8 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page import="java.util.List" %>
-<%@ page import="com.learning.spring_mvc.domain.member.Member" %>
-<%@ page import="com.learning.spring_mvc.domain.member.MemberRepository" %>
+<%@ page import="com.learning.spring_mvc.jsp.domain.member.Member" %>
+<%@ page import="com.learning.spring_mvc.jsp.domain.member.MemberRepository" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%
   MemberRepository memberRepository = MemberRepository.getInstance();
