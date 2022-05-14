@@ -5,8 +5,8 @@
   Time: 오전 9:43
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page import="com.learning.spring_mvc.jsp.domain.member.Member" %>
-<%@ page import="com.learning.spring_mvc.jsp.domain.member.MemberRepository" %>
+<%@ page import="com.learning.spring_mvc1.jsp.domain.member.Member" %>
+<%@ page import="com.learning.spring_mvc1.jsp.domain.member.MemberRepository" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%
     // request, response 사용 가능

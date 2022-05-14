@@ -1,7 +1,7 @@
 package com.learning.spring_mvc.domain.member;
 
-import com.learning.spring_mvc.jsp.domain.member.Member;
-import com.learning.spring_mvc.jsp.domain.member.MemberRepository;
+import com.learning.spring_mvc1.jsp.domain.member.Member;
+import com.learning.spring_mvc1.jsp.domain.member.MemberRepository;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
 
